@@ -9,4 +9,4 @@ You can play  projects I've worked on here on my [itch.io page](https://froguy.i
 ### 🛠️**Tools**
    * Languages: C++, C#, SQL, Python, CSS. 
    * Game Engines: Unity, Construct 3, Twine.
-   * Softwares: Canva, PiskelApp, Aseprite, DramaQueen, PhotoPea.
+   * Softwares: Canva, PiskelApp, Aseprite, PhotoPea.
