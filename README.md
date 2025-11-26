@@ -1,6 +1,6 @@
 # Meet the Developer❗
 
-⭐ Hi I'm Safronio (he/him). I'm an aspiring Game Developer and Writer who loves to create fun stories or connect with others through storytelling. You can find my favorite projects pinned below with a short description! Some things I love are reading books, exploring the outdoors, playing sports, watching anime, and seeing cute pets online! ⭐
+⭐ Hi I'm Safronio. I'm an aspiring Game Developer and Writer who loves to create fun stories or connect with others through storytelling. You can find my favorite projects pinned below with a short description! Some things I love are reading books, exploring the outdoors, playing sports, watching anime, and seeing cute pets online! ⭐
 
 ### 📚 **Projects**
 
